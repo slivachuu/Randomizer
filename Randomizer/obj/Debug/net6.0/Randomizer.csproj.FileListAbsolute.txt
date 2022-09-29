@@ -1,0 +1,15 @@
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/obj/Debug/net6.0/Randomizer.csproj.AssemblyReference.cache
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/obj/Debug/net6.0/Randomizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/obj/Debug/net6.0/Randomizer.AssemblyInfoInputs.cache
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/obj/Debug/net6.0/Randomizer.AssemblyInfo.cs
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/obj/Debug/net6.0/Randomizer.csproj.CoreCompileInputs.cache
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/bin/Debug/net6.0/Randomizer
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/bin/Debug/net6.0/Randomizer.deps.json
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/bin/Debug/net6.0/Randomizer.runtimeconfig.json
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/bin/Debug/net6.0/Randomizer.dll
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/bin/Debug/net6.0/Randomizer.pdb
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/obj/Debug/net6.0/Randomizer.dll
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/obj/Debug/net6.0/refint/Randomizer.dll
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/obj/Debug/net6.0/Randomizer.pdb
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/obj/Debug/net6.0/Randomizer.genruntimeconfig.cache
+/Users/slivachuu/RiderProjects/Randomizer/Randomizer/obj/Debug/net6.0/ref/Randomizer.dll
